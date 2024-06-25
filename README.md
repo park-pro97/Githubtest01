@@ -66,9 +66,6 @@ public class BootSpringBootApplication {
 ---------------------------------------
 
 
-[link keyword][id]
-
-[id]: URL "Optional Title here"
 
 // code
 Link: [Google][googlelink]
